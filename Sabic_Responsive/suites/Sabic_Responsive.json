@@ -1,0 +1,329 @@
+[
+    {
+        "name": "HomePage",
+        "elements": [
+            {
+                "type": "TabIcon",
+                "name": "Industry Info",
+                "label": "Industry Info",
+                "xpath":"/html/body/div/div/div/div[2]/div[2]",
+                "responsiveness": {
+                    "check_responsive": true,
+                    "responsive_type": "tab",
+                    "devices": [
+                        "desktop",
+                        "tablet",
+                        "mobile"
+                    ],
+                    "desktop": {
+                        "window_width": 1920,
+                        "window_height": 1080,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "tablet": {
+                        "window_width": 1024,
+                        "window_height": 768,                        
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "mobile": {
+                        "window_width": 375,
+                        "window_height": 667,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    }
+                }
+            },
+            {
+                "type": "TabButton",
+                "name": "Product Info",
+                "label": "Product Info",
+                "xpath":"/html/body/div/div/div/div[2]/div[1]",
+                "responsiveness": {
+                    "check_responsive": true,
+                    "responsive_type": "tab",
+                    "devices": [
+                        "desktop",
+                        "tablet",
+                        "mobile"
+                    ],
+                    "desktop": {
+                        "window_height": 1080,
+                        "window_width": 1920,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "tablet": {
+                        "window_height": 768,
+                        "window_width": 1024,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "mobile": {
+                        "window_height": 667,
+                        "window_width": 375,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "ProductInfoPage",
+        "elements": [
+            {
+                "type": "PC Copolymenr",
+                "name": "Industry Info",
+                "label": "Industry Info",
+                "xpath":"/html/body/div[2]/div/div[1]/main/div/div/div[1]/div[2]/div/ul/li[1]/div/a/div/div[3]",
+                "responsiveness": {
+                    "check_responsive": true,
+                    "responsive_type": "tab",
+                    "devices": [
+                        "desktop",
+                        "tablet",
+                        "mobile"
+                    ],
+                    "desktop": {
+                        "window_width": 1920,
+                        "window_height": 1080,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "tablet": {
+                        "window_width": 1024,
+                        "window_height": 768,                        
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "mobile": {
+                        "window_width": 375,
+                        "window_height": 667,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    }
+                }
+            },
+            {
+                "type": "LNP Compounds",
+                "name": "Product Info",
+                "label": "Product Info",
+                "xpath":"/html/body/div/div/div/div[2]/div[1]",
+                "responsiveness": {
+                    "check_responsive": true,
+                    "responsive_type": "tab",
+                    "devices": [
+                        "desktop",
+                        "tablet",
+                        "mobile"
+                    ],
+                    "desktop": {
+                        "window_height": 1080,
+                        "window_width": 1920,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "tablet": {
+                        "window_height": 768,
+                        "window_width": 1024,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "mobile": {
+                        "window_height": 667,
+                        "window_width": 375,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    }
+                }
+            },
+            {
+                "type": "LNP Compounds",
+                "name": "Product Info",
+                "label": "Product Info",
+                "xpath":"/html/body/div/div/div/div[2]/div[1]",
+                "responsiveness": {
+                    "check_responsive": true,
+                    "responsive_type": "tab",
+                    "devices": [
+                        "desktop",
+                        "tablet",
+                        "mobile"
+                    ],
+                    "desktop": {
+                        "window_height": 1080,
+                        "window_width": 1920,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "tablet": {
+                        "window_height": 768,
+                        "window_width": 1024,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "mobile": {
+                        "window_height": 667,
+                        "window_width": 375,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    }
+                }
+            }            
+        ]
+    },
+    {
+        "name": "ProductInfoPage",
+        "elements": [
+            {
+                "type": "PC Copolymenr",
+                "name": "Industry Info",
+                "label": "Industry Info",
+                "xpath":"/html/body/div[2]/div/div[1]/main/div/div/div[1]/div[2]/div/ul/li[1]/div/a/div/div[3]",
+                "responsiveness": {
+                    "check_responsive": true,
+                    "responsive_type": "tab",
+                    "devices": [
+                        "desktop",
+                        "tablet",
+                        "mobile"
+                    ],
+                    "desktop": {
+                        "window_width": 1920,
+                        "window_height": 1080,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "tablet": {
+                        "window_width": 1024,
+                        "window_height": 768,                        
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "mobile": {
+                        "window_width": 375,
+                        "window_height": 667,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    }
+                }
+            },
+            {
+                "type": "LNP Compounds",
+                "name": "Product Info",
+                "label": "Product Info",
+                "xpath":"/html/body/div/div/div/div[2]/div[1]",
+                "responsiveness": {
+                    "check_responsive": true,
+                    "responsive_type": "tab",
+                    "devices": [
+                        "desktop",
+                        "tablet",
+                        "mobile"
+                    ],
+                    "desktop": {
+                        "window_height": 1080,
+                        "window_width": 1920,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "tablet": {
+                        "window_height": 768,
+                        "window_width": 1024,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "mobile": {
+                        "window_height": 667,
+                        "window_width": 375,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    }
+                }
+            },
+            {
+                "type": "LNP Compounds",
+                "name": "Product Info",
+                "label": "Product Info",
+                "xpath":"/html/body/div/div/div/div[2]/div[1]",
+                "responsiveness": {
+                    "check_responsive": true,
+                    "responsive_type": "tab",
+                    "devices": [
+                        "desktop",
+                        "tablet",
+                        "mobile"
+                    ],
+                    "desktop": {
+                        "window_height": 1080,
+                        "window_width": 1920,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "tablet": {
+                        "window_height": 768,
+                        "window_width": 1024,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    },
+                    "mobile": {
+                        "window_height": 667,
+                        "window_width": 375,
+                        "visible": true,
+                        "order": 1,
+                        "element_width": "100px",
+                        "element_height": "200px"
+                    }
+                }
+            }            
+        ]
+    }    
+]
